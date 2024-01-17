@@ -16,3 +16,6 @@ theme_config:
   #show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
+  home:
+    title_projects: Portfolio
+    title_misc_list: Details
