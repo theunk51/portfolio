@@ -19,3 +19,11 @@ theme_config:
   home:
     title_projects: Portfolio
     title_misc_list: Details
+    
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
